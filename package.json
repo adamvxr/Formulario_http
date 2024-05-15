@@ -1,0 +1,30 @@
+{
+  "name": "formulario_http",
+  "version": "1.0.0",
+  "description": "Formulario em http",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamvxr/Formulario_http.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTTP",
+    "GET"
+  ],
+  "author": "Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamvxr/Formulario_http/issues"
+  },
+  "homepage": "https://github.com/adamvxr/Formulario_http#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
